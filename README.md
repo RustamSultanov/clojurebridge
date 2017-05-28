@@ -1,4 +1,4 @@
-# myproject test on Clojure
+# Myproject test on Clojure
 
 A Clojure library designed to test Cloujure REPL on ClojureBridge Workshop!
 
