@@ -1,10 +1,7 @@
-# myproject
+# myproject test on Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to test Cloujure REPL on ClojureBridge Workshop!
 
-## Usage
-
-FIXME
 
 ## License
 
